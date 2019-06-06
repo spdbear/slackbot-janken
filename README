@@ -1,0 +1,16 @@
+# janken-slackbot
+
+## About
+
+- What is it?
+  - Slack bot to play with CPU and "Janken"
+  - Works as Slash Commands
+- Language
+  - Python 3.7
+- Environment
+  - AWS Lambda
+  - AWS API Gateway
+
+## usage
+
+`/janken [ :fist: | :v: | :hand: ]`
