@@ -1,5 +1,7 @@
 # janken-slackbot
 
+![Demo Movie](https://user-images.githubusercontent.com/16793732/59015609-57af3a80-887a-11e9-90c5-63d136870157.gif)
+
 ## About
 
 - What is it?
